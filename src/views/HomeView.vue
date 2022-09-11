@@ -4,7 +4,7 @@
 
 <template>
   <main> 
-    <h2>Test, vue3 check:</h2>
+    <h2>Test, see component "SBLinkButtonV3":</h2>
     <SBLinkButtonV3 :buttonData="{ text: 'Go to start page', link : '/', targetBlank: false }"/>
   </main>
 </template>
